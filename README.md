@@ -1,16 +1,38 @@
-### Hi there 👋
+### Olá, gente! 👋
 
-<!--
-**Lucas-Belmiro/Lucas-Belmiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Eu atualmente estou em transição de carreira (Publicidade --> Desenvolvimento WEB)
+- 🌱 Estudo na TERA para me tornar um desenvolvedor full-stack em novembro
+- 👯 Estou em busca da minha primeira oportunidade como desenvolvedor
+- 📫 Você pode entrar em contato comigo através do e-mail: lucasrbelmiro@gmail.com
+- 😄 Pronomes: ele/dele
+- ⚡ Eu amo tocar guitarra e violão. Vamos formar uma banda?
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Lucas-Belmiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Belmiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Belmiro&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <br>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.myportfolio.com/2ade231e-93c7-4362-b14a-29bb81db4191/a8acf805-0102-4447-862c-76d7ee5548af.png?h=526df572429bf25cb688521f33b7bbaa">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ##
+  
+  <div> 
+
+  <a href = "mailto:lucasrbelmiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucasbelmiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+  
+  
