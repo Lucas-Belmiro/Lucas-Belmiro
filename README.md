@@ -1,8 +1,7 @@
 ### Olá, gente! 👋
 
-- 🔭 Eu atualmente estou em transição de carreira (Publicidade --> Desenvolvimento WEB)
-- 🌱 Estudo na TERA para me tornar um desenvolvedor full-stack em novembro
-- 👯 Estou em busca da minha primeira oportunidade como desenvolvedor
+- 🔭 Sou formado em Publicidade (UFPE)
+- 🌱 Sou um desenvolvedor full-stack (React + Node)
 - 📫 Você pode entrar em contato comigo através do e-mail: lucasrbelmiro@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Eu amo tocar guitarra e violão. Vamos formar uma banda?
