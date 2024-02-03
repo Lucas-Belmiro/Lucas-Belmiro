@@ -1,9 +1,10 @@
 ### Olá, gente! 👋
 
-- 🔭 Sou formado em Publicidade (UFPE)
-- 🌱 Sou um desenvolvedor full-stack (React + Node)
-- 📫 Você pode entrar em contato comigo através do e-mail: lucasrbelmiro@gmail.com
+- 🎨 Sou formado em Publicidade (UFPE)
+- 📖 Estudante de Tecnologia da Informação - UFMS
+- 🌱 Sou um desenvolvedor full-stack (React + Node + Express)
 - 😄 Pronomes: ele/dele
+- 📫 Você pode entrar em contato comigo através do e-mail: lucasrbelmiro@gmail.com
 - ⚡ Eu amo tocar guitarra e violão. Vamos formar uma banda?
     
     ----
