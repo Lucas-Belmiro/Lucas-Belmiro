@@ -1,7 +1,7 @@
 ### Olá, gente! 👋
 
 - 🎨 Sou formado em Publicidade (UFPE)
-- 📖 Estudante de Tecnologia da Informação - UFMS
+- 📖 Estudante de Tecnologia da Informação - @[UFMS](https://agead.ufms.br/tecnologia-da-informacao/)
 - 🌱 Sou um desenvolvedor full-stack (React + Node + Express)
 - 😄 Pronomes: ele/dele
 - 📫 Você pode entrar em contato comigo através do e-mail: lucasrbelmiro@gmail.com
