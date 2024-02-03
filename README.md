@@ -2,9 +2,9 @@
 
 - 🎨 Sou formado em Publicidade (UFPE)
 - 📖 Estudante de Tecnologia da Informação - @[UFMS](https://agead.ufms.br/tecnologia-da-informacao/)
-- 🌱 Sou um desenvolvedor full-stack (React + Node + Express)
+- 🌱 Sou um desenvolvedor full-stack (React + Node + Express + MongoDB)
 - 😄 Pronomes: ele/dele
-- ⚡ Eu amo tocar guitarra e violão. Vamos formar uma banda?
+- 🎸 Eu amo tocar guitarra e violão. Vamos formar uma banda?
     
     ----
 <div align="center">
@@ -21,7 +21,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.myportfolio.com/2ade231e-93c7-4362-b14a-29bb81db4191/a8acf805-0102-4447-862c-76d7ee5548af.png?h=526df572429bf25cb688521f33b7bbaa">
     
 </div>
   
