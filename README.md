@@ -3,7 +3,6 @@
 - 🎨 Sou formado em Publicidade (UFPE)
 - 📖 Estudante de Tecnologia da Informação - @[Universidade Federal de Mato Grosso do Sul](https://agead.ufms.br/tecnologia-da-informacao/)
 - 🌱 Sou um desenvolvedor full-stack (React + Node + Express + MongoDB)
-- 😄 Pronomes: ele/dele
 - 🎸 Eu amo tocar guitarra e violão. Vamos formar uma banda?
     
     ---
